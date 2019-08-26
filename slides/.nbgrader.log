@@ -1,0 +1,16 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/robertsj/Research/ne806/slides
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8891/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Clearing invalid/expired login cookie username-localhost-8891
+[NotebookApp | WARNING] Clearing invalid/expired login cookie username-localhost-8891
+[NotebookApp | INFO] 302 GET /tree (127.0.0.1) 2.43ms
+[NotebookApp | INFO] 302 POST /login?next=%2Ftree (127.0.0.1) 2.46ms
+[NotebookApp | WARNING] Notebook ARP_Lecture_2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c70f73c0-fa5e-49ca-97c3-9ff9f6f34c5f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c70f73c0-fa5e-49ca-97c3-9ff9f6f34c5f
+[NotebookApp | INFO] Saving file at /Lesson1.ipynb
+[NotebookApp | WARNING] Notebook Lesson1.ipynb is not trusted
