@@ -63,30 +63,29 @@ specified will be uploaded.)
 |	6	|	Mon, Sep 16	|	Introduction to Monte Carlo.  Review of some basic probability and statistics. 	|	B 1.1--1.21
 |	7	|	Wed, Sep 18	|	Random sampling.	|	B 3.1--3.36
 |	8	|	Mon, Sep 23	|	Slowing down (+ upscatter) with Monte Carlo (from a fixed source).   Collision physics.  	|	B 5.1--5.23
-|	9	|	Wed, Sep 25	|	Computing the multiplication factor (keff) with Monte Carlo.	|	B 7.1--7.30
-|	10	|	Mon, Sep 30	|	Geometric tracking in 3-D (slab) and 1-D (slab and cylindrical) worlds.  Spatial and other tallies.	|	B 4.1--4.26, 6.1--6.30
-|	11	|	Wed, Oct 02	|	Back to NTE.  The multigroup (and one-group) approximations.  Multigroup libraries.  Infinite medium spectra.	|	TBD
-|	12	|	Mon, Oct 07	|	The integral form of the transport equation.  1-D kernels.	|	BG 21--28, 32--34.
-|	13	|	Wed, Oct 09	|	The collision probability method (CPM).  Simplification to 1-D slab and cylindrical systems.	|	Handout.  Carlvik paper.
-|	14	|	Mon, Oct 14	|	Escape probabilities, approximations thereof, and equivalence in dilution.  The Dancoff effect.	|	BG 108--125.
-|	15	|	Wed, Oct 16	|	The multigroup CPM equations.  Unit-cell homogenization.	|	TBD
-|	16	|	Mon, Oct 21	|	Spherical harmonics, the P1 approximation, and diffusion.  Transport approximation.	|	BG 129--136, 146--150.
-|	17	|	Wed, Oct 23	|	Analytical and semi-analytical solutions of the one- and multigroup diffusion equations in slab geometry.	|	H XXX--YYY.  DH 1157--176.
-|	18	|	Mon, Oct 28	|	Numerical solution of the diffusion equation.  	|	Handout. 
-|	19	|	Wed, Oct 30	|	An aside on iterative solutions: classical schemes and modern marvels.	|	Handout. DH 216--219.
-|	20	|	Mon, Nov 04	|	Getting angles back: discrete ordinates (the SN method) in slab geometry.  	|	Handout. (LM ch 3)
-|	21	|	Wed, Nov 06	|	Extending discrete-ordinates to 2-D and 3-D.  Ray effects.	|	Handout. (LM ch 4)
-|	22	|	Mon, Nov 11	|	The method of characteristics.	|	Handout.
-|	23	|	Wed, Nov 13	|	Diffusion-synthetic acceleration and a connection to iterative methods.	|	Handout.
-|	24	|	Mon, Nov 18	|	The adjoint equation and importance. 	|	BG 252--273.
-|	25	|	Wed, Nov 20	|	The adjoint and first-order perturbation theory. 	|	BG 274--290.
-|		|	Mon, Nov 25	|	HOLIDAY	|	
+|	9	|	Wed, Sep 25	|	Catching up...	|	
+|	10	|	Mon, Sep 30	|	Computing the multiplication factor (keff) with Monte Carlo.	|	B 7.1--7.30
+|	11	|	Wed, Oct 02	|	Practical work time for homework 3.	|	B 4.1--4.26, 6.1--6.30
+|	12	|	Mon, Oct 07	|	Back to NTE.  The multigroup (and one-group) approximations.  Multigroup libraries.  Infinite medium spectra.	|	In-class notes.
+|	13	|	Wed, Oct 09	|	The integral form of the transport equation.  1-D kernels.	|	BG 21--28, 32--34.
+|	14	|	Mon, Oct 14	|	The collision probability method (CPM).  Simplification to 1-D slab.	|	Handout.  Carlvik paper.
+|	15	|	Wed, Oct 16	|	Escape probabilities, approximations thereof, and equivalence in dilution. 	|	BG 108--125.
+|	16	|	Mon, Oct 21	|	The dancoff effect.	|
+|	17	|	Wed, Oct 23	|	Spherical harmonics, the P1 approximation, and diffusion.  Transport approximation.	|	BG 129--136, 146--150.
+|	18	|	Mon, Oct 28	|	Analytical and semi-analytical solutions of the one- and multigroup diffusion equations in slab geometry.	|	H XXX--YYY.  DH 1157--176.
+|	19	|	Wed, Oct 30	|	Numerical solution of the diffusion equation.  	|	Handout. 
+|	20	|	Mon, Nov 04	|	An aside on iterative solutions: classical schemes and modern marvels.	|	Handout. DH 216--219.
+|	21	|	Wed, Nov 06	|	Getting angles back: discrete ordinates (the SN method) in slab geometry.  	|	Handout. (LM ch 3)
+|	22	|	Mon, Nov 11	|	Extending discrete-ordinates to 2-D and 3-D.  Ray effects.	|	Handout. (LM ch 4)
+|	23	|	Wed, Nov 13	|	The method of characteristics.	|	Handout.
+|	24	|	Mon, Nov 18	|	Diffusion-synthetic acceleration and a connection to iterative methods.	|	Handout.
+|	25	|	Wed, Nov 20	|	The adjoint equation and importance. 	|	BG 252--273.
+|		|	Mon, Nov 25	|	The adjoint and first-order perturbation theory. 	|	BG 274--290.
 |		|	Wed, Nov 27	|	HOLIDAY	|	
-|	26	|	Mon, Dec 02	|	Revisiting Monte Carlo: source-detector problems and variance reduction.	|	B. 9.1--9.24
-|	27	|	Wed, Dec 04	|	Source biasing and transport biasing.  Geometry splitting and weight-windows.	|	same.
-|	28	|	Mon, Dec 09	|	Deterministic generation of weight-window parameters.  Demonstration with MCNP.	|	Handout.
-|	29	|	Wed, Dec 11	|	Course wrap up.	|	
-							
+|	26	|	Mon, Dec 02	|	HOLIDAY	|	
+|	27	|	Wed, Dec 04	|	Revisiting Monte Carlo: source-detector problems and variance reduction.	|	B. 9.1--9.24
+|	28	|	Mon, Dec 09	|	Source biasing and transport biasing.  Geometry splitting and weight-windows.	|	same.
+|	29	|	Wed, Dec 11	|	Deterministic generation of weight-window parameters.  Demonstration with MCNP.	|	Handout.
 							
 							
 							
